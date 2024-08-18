@@ -1,0 +1,8 @@
+name: Kingdoms-Land-Protection
+version: '${version}'
+main: top.mckingdom.land_protection.Kingdoms_Land_Protection
+api-version: '1.20'
+depend:
+  - Kingdoms
+
+load: POSTWORLD
